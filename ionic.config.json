@@ -1,0 +1,8 @@
+{
+  "name": "MCT",
+  "app_id": "31262c41",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
